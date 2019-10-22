@@ -1,3 +1,11 @@
+a {
+	color: #41a1f5;
+}
+
+a:hover {
+	color: #c740b5;
+}
+
 p {
 	margin-bottom: 2%;
 	padding: 1%;
@@ -85,12 +93,4 @@ a:not([href]):not([tabindex]):hover {
 
 .go-home:hover {
 	color: #35393d;
-}
-
-a {
-	color: #41a1f5;
-}
-
-a:hover {
-	color: #c740b5;
 }
