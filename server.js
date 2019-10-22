@@ -1,4 +1,3 @@
-// steves npr news scraper
 
 var express = require("express");
 var mongoose = require("mongoose");
